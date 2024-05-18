@@ -1,6 +1,7 @@
-### Boas Vindas ao meu Perfil ❤️‍🔥
+### Boas Vindas ao meu Perfil 🤙
 
-Meu nome é João Pualo e sou ### Cristão
+Meu nome é João Pualo
+### Sou Cristão❤️‍🔥❤️‍🔥
 
 - Estou estudando no [Alura](https://alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
